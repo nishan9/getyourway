@@ -5,14 +5,10 @@ import './App.css'
 function App() {
   return (
     <>
-      <div>
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-          <img src={reactLogo} className="logo react" alt="React logo" />
-      </div>
-      <h1>Vite + React</h1>
       <div className="card">
         <p>Sky Bootcamp</p>
         <p>Cohort 4</p>
+        <p>The OG Team</p>
       </div>
     </>
   )
